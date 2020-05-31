@@ -1,0 +1,70 @@
+.oleksandr-header {
+    color:black;
+}
+.oleksandr-about-txt {
+    color: black;
+}
+.oleksandr-table-power {
+    color: darkolivegreen;
+}
+.oleksandr-table-weak{
+    color: darkolivegreen;
+}
+.oleksandr-wrapper {
+    position: relative;
+}
+.oleksandr-text-block {
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    color: white;
+}
+.oleksandr-image {
+    border-radius: 5px;
+    margin: 20px;
+}
+.oleksandr-gallery-img {
+     border-radius: 20px;
+ }
+.oleksandr-body {
+    background: url(../images/Oleksandr/background-head.png) 0 0/auto auto;
+    background-size: auto;
+    margin: 0;
+    height: 100%;
+    font-family: sans-serif;
+}
+.oleksandr-gallery .oleksandr-gallery-img {
+    margin: 20px;
+    border-radius: 5px;
+    height: 150px;
+    width: auto;
+    border: 2px solid black;
+    box-shadow: 0 0 10px #000;
+}
+.oleksandr-menu {
+    display: block;
+    position: relative;
+    top: 0px;
+    background: black;
+    width: 60px;
+    height: 25px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 7px;
+    box-shadow: 0 0 10px #000;
+}
+.oleksandr-text-menu {
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    top: 5px;
+    left: 6px;
+}
+.oleksandr-gallery-big .oleksandr-gallery-img {
+    margin: 30px;
+    border-radius: 5px;
+    height: 235px;
+    width: auto;
+    border: 2px solid gold;
+    box-shadow: 0 0 15px #000;
+}

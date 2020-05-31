@@ -1,0 +1,133 @@
+.olha-selfpage-body {
+    background-image: url("https://st2.depositphotos.com/1888461/10150/i/950/depositphotos_101503380-stock-photo-watercolor-background-soft-vintage-with.jpg");
+}
+.olha-block {
+    display:inline-block;
+    background: aquamarine;
+    margin: 10px;
+    padding: 20px;
+    border: 2px dotted;
+    top: 60px;
+    left: 150px;
+    position: absolute;
+    z-index: 1;
+}
+.olha-fixblock {
+    display: block;
+    padding: 10px;
+    /*width: 100%;*/
+    top: 0;
+    righ: 0;
+    position: sticky;
+    background: bisque;
+    z-index: 2;
+    box-shadow: 2px 3px 5px ivory;
+}
+.olha-top-menu {
+    list-style: none;
+    display: inline;
+}
+.olha-top-menu-item {
+    border-right: 2px solid black;
+    display: inline;
+    align-content: center;
+}
+.olha-top-menu-item :last-child {
+    border-right: none
+}
+.olha-menu-link {
+    color: black;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px grey;
+}
+.olha-menu-link:hover {
+    text-shadow: 1px 1px 1px grey;
+    color: darkgrey;
+    font-size: 20px;
+}
+.olha-block:hover {
+    background: skyblue;
+    border: 0px;
+}
+.olha-main-title {
+    color: black;
+    margin: 10px 10px 10px 10px;
+    font-size: 40px;
+    text-shadow: 1px 1px 1px grey;
+    box-sizing: content-box;
+}
+.olha-main-title:hover {
+    color: black;
+    margin: 10px 20px 20px 20px;
+    text-shadow: 3px 3px 3px grey;
+}
+.olha-second-title {
+    display: inline-block;
+    color: Black;
+    margin: 10px 200px 5px 20px;
+    border-bottom: 1px black double;
+}
+.olha-simple-text {
+    margin: 10px 0 5px 30px;
+    color: black;
+    max-width: 700px;
+}
+.olha-wrapper {
+    position: relative;
+}
+.olha-text-block {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    background: #ffcc66;
+}
+.olha-image {
+    float: left;
+    margin: 5px 10px 10px 0;
+    width: 300px;
+}
+.olha-qualities-block {
+    max-width: 335px;
+    display: inline-block;
+    margin: 10px;
+    background: beige;
+    padding: 10px 10px 10px;
+    border-top: 3px solid darkgrey;
+    vertical-align: top;
+}
+.olha-list-title {
+    margin:5px 10px 5px 10px;
+    font-size: 20px;
+    text-shadow: 1px 1px 1px grey;
+}
+.olha-list {
+    list-style-type: circle;
+    margin:5px 5px 5px 5px;
+    padding-inline-start: 25px;
+}
+.olha-list:hover {
+    list-style-type: disc;
+    margin:5px 5px 5px 5px;
+    padding-inline-start: 25px;
+}
+.olha-socials {
+    display: inline-block;
+    margin: 10px 10px 10px 15px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.olha-gallery-gallery-wrapper {
+    box-shadow: 0 0 10px grey;
+    max-width: 100px;
+}
+.olha-gallery-wrapper .olha-gallery {
+    border: 2px solid darkolivegreen;
+    max-width: 100px;
+    max-height: 100px;
+
+}
+.olha-gallery-wrapper .olha-second-gallery {
+    max-width: 200px;
+    max-height: 300px;
+    box-shadow: 3px 0 10px grey;
+}

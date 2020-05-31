@@ -1,0 +1,148 @@
+.valerie-main-page {
+    background-image: linear-gradient(#002e4d, #1aa3ff);
+}
+.valerie-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    border-style: groove;
+    background-color: #001f33;
+}
+.valerie-name {
+    display: inline-block;
+    color: #C0C0C0;
+    font-size: 60px;
+    text-align: center;
+    font-variant: small-caps;
+    padding-left: 200px;
+    margin-left: 150px;
+    }
+.valerie-back-link {
+    display: inline-block;
+    width: 100px;
+    background-color: #e0e0d1;
+    color: black;
+    text-shadow: 2px 2px 8px #6666ff;
+    margin-top: 0;
+    float: left;
+    text-align: center;
+    font-size: 20px;
+}
+.valerie-back-link:hover{
+    display: inline-block;
+    width: 130px;
+    background-color: #80dfff;
+    color: #4d4d33;
+    text-shadow: 2px 2px 8px #6666ff;
+    margin-top: 0;
+    float: left;
+    text-align: center;
+    font-size: 30px;
+}
+.valerie-column {
+    display: inline-block;
+    width: calc(50% - 15px);
+    vertical-align: top;
+}
+.valerie-column:first-child {
+    padding-right: 20px;
+}
+.valerie-introduction {
+    font-size: 30px;
+    font-variant: small-caps;
+    color: #FFD700;
+    font-style: oblique;
+}
+.valerie-job {
+    font-size: 30px;
+    font-style: oblique;
+    color: lightskyblue;
+}
+.valerie-photo {
+    position: relative;
+    font-size: 30px;
+    font-style: oblique;
+    color: #C0C0C0;
+}
+.valerie-pattern {
+    position: absolute;
+    top: 60px;
+    right: 125px;
+    left: 60px;
+    z-index: 50;
+    display: inline-block;
+    box-sizing: border-box;
+    color: white;
+    font-size: 60px;
+}
+.valerie-link a:link, a:visited {
+    border-radius: 30px;
+    background-color: #e0e0d1;
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-shadow: 2px 2px 8px #6666ff;
+    display: inline-block;
+}
+.table-of-skills {
+    font-size: 30px;
+    font-variant: small-caps;
+    color: black;
+}
+.valerie-benefits {
+    list-style-type: upper-alpha;
+    list-style-position: inside;
+}
+.valerie-limitations {
+    list-style-type: circle;
+    list-style-position: inside;
+}
+.valerie-table-display{
+    vertical-align: top;
+}
+.table-of-skills tr:first-child {
+    color: #C0C0C0;
+}
+.valerie-second-column {
+    padding-left: 30px;
+}
+.valerie-gallery .kitten {
+    display: inline-block;
+    float: left;
+    border: dashed;
+    border-color: #002e4d;
+    height: 300px;
+    width: 300px;
+}
+/*.valerie{*/
+/*    box-sizing: border-box;*/
+/*    width: 150px;*/
+/*    height: 170px ;*/
+/*    display:block;*/
+/*    background: #DC143C;*/
+/*    text-shadow: 2px 2px 8px #6666ff;*/
+/*    text-align: end;*/
+/*    padding-right: 23px;*/
+/*    margin: 25px 60px 33px 78px;*/
+/*    border: #C0C0C0;*/
+/*    border-radius: 45px;*/
+/*   }*/
+/*.valerie:hover {*/
+/*    display: inline;*/
+/*    font-size: 50px;*/
+/*    text-align: center;*/
+/*    border-radius: 15px;*/
+/*    background: greenyellow;*/
+/*}*/
+/*.valerie-sticky {*/
+/*    position: sticky;*/
+/*    display: inline-block;*/
+/*    z-index: 100;*/
+/*    top: 0;*/
+/*    background-image: radial-gradient(#4d79ff, #C0C0C0);*/
+/*    padding: 50px;*/
+/*    font-size: 20px;*/
+/*    border-style: inset;*/
+/*    border-radius: 100%;*/
+/*    border-color: #19334d #4d4d33;*/
+/*}*/

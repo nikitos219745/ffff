@@ -1,0 +1,96 @@
+.Helena-title {
+    color:#000080 ;
+    font-family: "Microsoft YaHei UI", serif;
+    text-align: center;
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.Helena-story {
+color:Maroon;
+font-size: 190%;
+text-align: center;
+font-family: "Microsoft YaHei UI", serif
+}
+.Helena-background-image {
+    background-image: url(../images/Helena2.png);
+}
+
+.Helena-text-style{
+    line-height: 1.1%;
+}
+
+.Helena-strong-sides {
+    color: red;
+    font-size: 130%;
+    margin: 3%;
+    font-family: "Trebuchet MS", serif;
+}
+.Helena-weak-sides{
+    color: red ;
+    font-size: 130%;
+    margin: 3%;
+    font-family: "Trebuchet MS", serif;
+}
+
+.Helena-text-about-video {
+    text-align: center;
+    font-size: 200%;
+    color: maroon;
+    font-family: "Microsoft YaHei UI", serif;
+}
+.Helena-center-video{
+    text-align: center;
+}
+
+.Helena-center-img {
+    text-align: center;
+}
+.Helena-block {
+    display: block;
+    color: #191970;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 10px solid maroon;
+    background: #4682B4;
+}
+
+.Helena-span{
+    display: block;
+    background: #394d00;
+    padding: 30px;
+    margin: 40px;
+    border: 10px; solid-color: #4682B4;
+    color: aqua;
+    text-align: center;
+    font-size: 60px;
+}
+
+.Helena-span:hover{
+    background: navy;
+    margin: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

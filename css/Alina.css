@@ -1,0 +1,142 @@
+ .alina-body {
+    background-color: #faf9d5;
+ }
+
+ .block-sticky {
+     position: sticky;
+     top: 0;
+     display: block;
+     margin-left: 60px;
+     margin-right: 10px;
+     padding-left: 10px;
+     padding-bottom: 10px;
+     background: white;
+ }
+
+.alina-header {
+    color: #FF69B4;
+    font-size: 40px;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+ .alina-lists {
+     color: #FF69B4;
+     font-size: 14px;
+     font-family: Arial, Verdana, sans-serif;
+     text-decoration: underline;
+ }
+
+.alina-main_text {
+    text-align: justify;
+    margin-left: 60px;
+    margin-right: 10px;
+    border-left: 1px solid #999;
+    border-bottom: 1px solid #999;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background: white;
+}
+
+.alina-work {
+    text-align: justify;
+    margin-left: 60px;
+    margin-right: 10px;
+    border-left: 1px solid #999;
+    border-bottom: 1px solid #999;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background: white;
+}
+
+.alina-work:hover {
+    text-align: justify;
+    border-radius: 10%;
+    margin-left: 60px;
+    margin-right: 10px;
+    border-left: 1px solid #999;
+    border-bottom: 1px solid #999;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background: purple;
+}
+
+.alina-block {
+    box-sizing: border-box;
+    background: #8b00ff;
+    display: block;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: 20px 30px 40px 30px;
+    border: 5px solid pink;
+    padding: 40px;
+    position: relative;
+}
+
+.alina-block:hover {
+    box-sizing: border-box;
+    background: green;
+    display: block;
+    height: 200px;
+    width: 200px;
+    margin: 20px 30px 40px 30px;
+    border: 5px dotted purple;
+    padding: 40px 40px 40px 40px;
+}
+
+.alina-hobbies {
+     box-sizing: border-box;
+     background: pink;
+     display: block;
+     height: 100px;
+     width: 200px;
+     border-radius: 10%;
+     margin: 20px 30px 40px 30px;
+     border: 5px solid pink;
+     padding: 40px 40px 40px 40px;
+     position: relative;
+}
+
+.alina-wrapper {
+    position: relative;
+    display: inline-block;
+}
+
+.alina-text-block {
+    position: absolute;
+    top: 200px;
+    left: 17px;
+    color: black;
+    font-size: 30px;
+    font-family: calibri, cursive;
+    text-align: center;
+    background-color: white;
+    width: 300px;
+    height: 40px;
+}
+
+ .alina-gallery-wrapper .img-hobbies {
+     display: inline-block;
+     margin: 15px;
+     border: 2px solid black;
+     border-radius: 10%;
+     box-shadow: 10px 5px 5px gray;
+ }
+
+ .alina-wrapper-albums {
+     position: relative;
+     display: inline-block;
+ }
+
+ .alina-text-block-albums {
+     position: absolute;
+     bottom: 20px;
+     left: 17px;
+     color: white;
+     font-size: 20px;
+     font-family: calibri, cursive;
+     text-align: center;
+     background-color: darkgray;
+     width: 200px;
+     height: 30px;
+ }

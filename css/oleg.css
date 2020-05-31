@@ -1,0 +1,191 @@
+.oleg-document-body {
+    font-family: cursive, sans-serif;
+    font-size: unset;
+}
+.oleg-tablecontainer {
+    display: table;
+    margin: 0 auto;
+}
+.oleg-tablerow {
+    display: table-row;
+}
+.oleg-leftbar {
+    display: table-cell;
+    background-color: #495f86;
+    color: white;
+    width: 200px;
+    padding: 20px;
+    vertical-align: top;
+    position: relative;
+}
+.oleg-rightbar {
+    display: table-cell;
+    width: 500px;
+    vertical-align: top;
+    padding-left: 30px;
+    background: #ecf1f5;
+    padding-right: 30px;
+    position: relative;
+}
+.oleg-table-interests {
+    height: 40px;
+    width: 200px;
+    text-align: left;
+    font-weight: unset;
+}
+.oleg-meritlist {
+    list-style: none;
+    position: relative;
+    right: 50px;
+}
+.oleg-numeration {
+    color: white;
+    background: #495f86;
+    display: inline-block;
+    text-align: center;
+    margin: 5px 10px;
+    line-height: 40px;
+    width: 41px;
+    height: 41px;
+    border-radius: 40%;
+}
+.oleg-profilepic:hover {
+    transform: scale(-1,1);
+}
+.oleg-homepage-link {
+    float: right;
+    position: sticky;
+    top: 0;
+}
+.oleg-additional-info {
+    position: relative;
+    left: 62px;
+    font-size: small;
+    bottom: 10px;
+}
+.oleg-contacts-img {
+    height: 25px;
+    position: relative;
+    top: 6px;
+    margin-right: 10px;
+}
+.oleg-geotag-image {
+    float: left;
+    clear: bottom;
+    margin-top: 20px;
+    margin-right: 14px;
+    padding-bottom: 15px;
+    height: 25px;
+}
+.oleg-low-tablecontainar {
+    display: table;
+    margin: 0 auto;
+    padding-right: 37px;
+}
+.oleg-gallery-img {
+    display: inline-block;
+    margin: 10px 20px;
+    box-shadow: -3px -3px 10px 1px #007c82;
+}
+.oleg-gallery, .oleg-interior-gallery {
+    white-space: nowrap;
+    margin-top: 50px;
+    position: relative;
+    margin-bottom: 50px;
+    display: table-row;
+}
+.oleg-gallery-main-title {
+    text-align: center;
+}
+.oleg-gallery-imgtitle {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 75px;
+    color: white;
+    background: rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+}
+.oleg-interior-gallery-imgtitle {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 132px;
+    color: white;
+    background: rgba(255, 255, 255, 0.5);
+    font-size: 20px;
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+}
+.oleg-interior-gallery-imgtitle:hover {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 132px;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+}
+.oleg-gallery-imgtitle:hover {
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-top: 65px;
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+    display: inline-block;
+    width: 250px;
+    height: 85px;
+    text-align: center;
+}
+.oleg-interior-gallery-img {
+    display: inline-block;
+    margin: 10px 20px;
+    box-shadow: -3px -3px 10px 1px #007c82;
+    width: 250px;
+    height: 150px;
+}
+.oleg-interior-gallery-fullimg > img {
+    height: 90%;
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+}
+.oleg-interior-gallery-title {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    margin: 0 5%;
+}
+.oleg-interior-gallery a {
+    outline: none;
+    text-decoration: none;
+    color: white;
+}
+.oleg-interior-gallery .oleg-hr-lines {
+    width: 838.75px;
+}
+.oleg-gallery .oleg-hr-lines {
+    width: 838.75px;
+}
+.oleg-hr-undermyname {
+    width: 400px;
+    margin-left: 0;
+}
+.oleg-hr-undercareer {
+    width: 300px;
+    margin-left: 0;
+}
+.oleg-hr-undereducation, .oleg-hr-underexp {
+    width: 200px;
+    margin-left: 0;
+}
+.oleg-hr-underinterests {
+    width: 150px;
+    margin-left: 0;
+}
